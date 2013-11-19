@@ -70,7 +70,7 @@ require([
 				setChartContent(node);
 				break;
 			default:
-				alert('error: unkonw content type: ' + contentType);
+				alert('error: unknown content type: ' + contentType);
 				break;
 		}
 	}
