@@ -39,7 +39,7 @@ define([
 		//		|	grid.column(1).isSelected();
 		//		2. Use select api on select.column module
 		//		|	grid.select.column.selectById(columnId);
-		//		|	grid.select.column.deSelectById(columnId);
+		//		|	grid.select.column.deselectById(columnId);
 		//		|	grid.select.column.isSelected(columnId);
 		//		|	grid.select.column.getSelected();//[]
 		//		|	grid.select.column.clear();
